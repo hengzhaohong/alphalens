@@ -56,7 +56,7 @@ if __name__ == "__main__":
             'Topic :: Office/Business :: Financial',
             'Topic :: Scientific/Engineering :: Information Analysis',
         ],
-        url='https://github.com/quantopian/alphalens',
+        url='https://github.com/hengzhaohong/alphalens',
         install_requires=install_reqs,
         extras_require=extra_reqs,
     )
